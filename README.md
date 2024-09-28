@@ -25,3 +25,7 @@ with startxfce4
  Restart xrdp with sudo service xrdp start 
 
 Select Xrdp as the session, and log in.
+
+
+
+https://www.youtube.com/watch?v=yDspwAm9_sY&t=2s
