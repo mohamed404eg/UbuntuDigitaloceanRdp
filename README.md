@@ -29,3 +29,6 @@ Select Xrdp as the session, and log in.
 
 
 https://www.youtube.com/watch?v=yDspwAm9_sY&t=2s
+
+Ubuntu 20.04 (LTS) x64 is work good is test
+
